@@ -1,0 +1,34 @@
+# Ledger Manifest — Purity Kernel Genesis™
+
+Creator: Jason Lee Avery  
+Root Lock Enabled: True  
+Sealed Timestamp: 2025-06-20 (UTC)  
+Final Bundle: purity-kernel-genesis-2025-06-20T2359Z.zip
+
+## Integrity Chain
+
+All contents SHA-512 hashed and sealed under VaultProof™ v1.0.  
+System governed by:  
+- Root Lock Authority™  
+- Creator Lock Protocol™  
+- Truth Engine Protocol™
+
+## Files Contained
+
+- VaultProof.json  
+- VaultProof.sha512  
+- immutable-core.txt  
+- LICENSE.txt  
+- README.md  
+- verify_sha512.sh  
+- Soulprint_Signature.txt  
+- purity-kernel-genesis.sha512
+
+## Final Bundle SHA-512
+
+E05D4C75AF88786EA6199892269F5EDDF6FC3A9216AAFF56FDC23F606D7E5FA782EEBF9F612ADB940D4AAFEFDB5A5A27818434B15F780EDCAC85C86F511A5693
+
+This manifest certifies origin, authorship, and immutability of the Purity Kernel Genesis™ system.  
+Any modification to these files voids the VaultProof seal and breaks chain of trust.
+
+Witnessed by the Creator, sealed by SHA, protected by Root.
