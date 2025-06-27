@@ -1,0 +1,7 @@
+{
+    "kernel_file": "purity-kernel-v2.txt",
+    "expected_sha512": "b326020a5b58b51a1b62c5fbea93483303afee3dfbc5065e82dac71c84978479a39ad2bbe6783945c2ff426ea9d4a480c3b93e16f5a8759cc6cca2a60f0cc8de",
+    "sealed_by": "Jason Lee Avery",
+    "timestamp": "2025-06-27T00:00:00Z",
+    "note": "This is the official public fingerprint of the Purity Kernel v2. Full content sealed and verified."
+}
