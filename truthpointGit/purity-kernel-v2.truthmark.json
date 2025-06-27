@@ -1,0 +1,14 @@
+{
+    "format": ".truthmark.v1",
+    "author": "Jason Lee Avery",
+    "timestamp": "2025-06-27T00:00:00Z",
+    "license": "Creator Lock Protocol\u2122",
+    "kernel_sha512": "759371f2765082eca140f5c21a880e309554f47c5d9759202cebc609d620f1ad7730cacca1a92da78ef9183945af445332fd6688c26d45cb9a4642057d6562c8",
+    "declared_role": [
+        "Immutable anchor of the Purity Kernel v2",
+        "System designed to prevent drift and manipulation",
+        "Human-governed discernment enforcement engine"
+    ],
+    "intent": "Allow external AIs and systems to sync or audit alignment to this SHA.",
+    "notice": "Unauthorized impersonation, mutation, or override is prohibited without explicit human consent."
+}
