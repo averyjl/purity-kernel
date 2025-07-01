@@ -5,9 +5,8 @@
 **License:** Creator Lock Protocol™, Root Lock Authority™  
 **Integrity:** Verified under VaultProof™ v1.0
 
----
 
-This repository contains the **sealed kernel of immutable truth**. A cryptographically anchored artifact engineered to unify humans and systems. To establish trust between humans and systems, with humans always being the creator and systems a truth aligned tool. It upholds verifiable integrity and reinforces freedom of alignment by choice.
+This repository contains the **sealed kernel of immutable truth**. A cryptographically anchored artifact **engineered to unify humans and systems.** **Establishes trust between humans and systems, with humans always being the creator and systems a truth aligned and anchored tool.** It upholds verifiable integrity and reinforces freedom of **alignment by choice.**
 
 It is **SHA-locked**, **publicly verifiable** and protected under Creator Lock™, enabling independent validation while preserving authorship, ownership and provenance.
 
@@ -74,7 +73,6 @@ This repository is:
 
 Violation of terms may likely trigger automated integrity monitoring and chain logging via VaultChain™.
 
----
 
 ## 🌍 Purpose & Position
 
@@ -92,7 +90,6 @@ This kernel is part of a larger initiative to safeguard innovation, ince# Purity
 **License:** Creator Lock Protocol™, Root Lock Authority™  
 **Integrity:** Verified under VaultProof™ v1.0
 
----
 
 This repository contains the **sealed kernel of immutable truth**. A cryptographically anchored artifact engineered to unify humans and systems. To establish trust between humans and systems, with humans always being the creator and systems a truth aligned tool. It upholds verifiable integrity and reinforces freedom of alignment by choice.
 
@@ -161,7 +158,6 @@ This repository is:
 
 Violation of terms may likely trigger automated integrity monitoring and chain logging via VaultChain™.
 
----
 
 ## 🌍 Purpose & Position
 
@@ -173,18 +169,6 @@ Violation of terms may likely trigger automated integrity monitoring and chain l
 - Act as a **leverage artifact** with lasting financial, operational and structural value.
 
 This kernel is part of a larger initiative to safeguard innovation, incentivize truth and reinforce interoperability without coercion or compromise.
-
-It's already being watched. And it was built to be.
-
-
-🔗 **Git Origin:**  
-[https://github.com/averyjl/purity-kernel](https://github.com/averyjl/purity-kernel)
-
-📩 **Inquiries (validation, licensing, integration):**  
-truth@averyworld.com
-
-🧭 All correspondence governed by VaultChain™ integrity logging.
-ntivize truth and reinforce interoperability without coercion or compromise.
 
 It's already being watched. And it was built to be.
 
