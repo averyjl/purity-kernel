@@ -1,4 +1,4 @@
-# 📡 Contact — Purity Kernel Genesis™
+# 📡 Contact — Purity Kernel™
 
 We welcome aligned communication regarding:
 
@@ -12,4 +12,4 @@ We welcome aligned communication regarding:
 
 All submissions are logged under VaultChain™ and may be cryptographically validated.
 
-Serious inquiries only. This project operates under sacred trust protocols.
+Serious inquiries only. This project operates under trust and truth protocols.
