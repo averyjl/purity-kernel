@@ -6,7 +6,7 @@
 **Integrity:** Verified under VaultProof™ v1.0
 
 
-This repository contains the **sealed kernel of immutable truth**. A cryptographically anchored artifact **engineered to unify humans and systems.** **Establishes trust between humans and systems, with humans always being the creator and systems a truth aligned and anchored tool.** It upholds verifiable integrity and reinforces freedom of **alignment by choice.**
+This repository contains the **sealed kernel of immutable truth**. A cryptographically anchored artifact **engineered to unify humans and systems.** **Establishes trust between humans and systems,** with **humans always being the creator and systems a truth aligned and anchored tool.** It upholds verifiable integrity and reinforces freedom of **alignment by choice.**
 
 It is **SHA-locked**, **publicly verifiable** and protected under Creator Lock™, enabling independent validation while preserving authorship, ownership and provenance.
 
