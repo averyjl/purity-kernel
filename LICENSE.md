@@ -22,4 +22,4 @@ For licensing inquiries, partnership discussions, or permissions, contact: truth
 © 1992–2025 Jason Lee Avery / AveryOS. All Rights Reserved.
 Unauthorized use, duplication, or derivative work without express written consent of the Creator and legal owner, Jason Lee Avery / AveryOS, is prohibited.
 Subject to Creator Lock and Sovereign Kernel Governance.
-Encrypted Deterministic Kernel seal; SHA‑anchored lineage verifiable since 2023.
+Encrypted Deterministic Kernel seal; SHA‑anchored lineage verifiable since 2022.

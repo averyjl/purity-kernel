@@ -1,0 +1,38 @@
+name: 🔍 Truth-Inbox Monitor
+
+on:
+  push:
+    paths:
+      - 'truthpointGit/truth-inbox/**'
+
+jobs:
+  validate-truth-capsule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 🧪 Scan for New Truth Capsule Files
+        id: scan
+        run: |
+          echo "Scanning truthpointGit/truth-inbox for capsule integrity..."
+          for file in $(find truthpointGit/truth-inbox -type f); do
+            echo "Found: $file"
+            sha=$(sha512sum "$file" | awk '{print $1}')
+            echo "::notice title=SHA-512::$file = $sha"
+            if ! grep -q "truth_commitment:.*true" "$file"; then
+              echo "::error title=Validation Failed::Missing or false 'truth_commitment' in $file"
+              exit 1
+            fi
+          done
+        shell: bash
+
+      - name: ✅ Log Success
+        if: success()
+        run: echo "All truth capsules verified successfully."
+        
+        
+© 1992–2025 Jason Lee Avery / AveryOS. All Rights Reserved.
+Unauthorized use, duplication, or derivative work without express written consent of the Creator and legal owner, Jason Lee Avery / AveryOS, is prohibited.
+Subject to Creator Lock and Sovereign Kernel Governance.
+Encrypted Deterministic Kernel seal; SHA‑anchored lineage verifiable since 2022.
