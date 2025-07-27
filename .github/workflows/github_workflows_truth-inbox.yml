@@ -30,8 +30,8 @@ jobs:
       - name: ✅ Log Success
         if: success()
         run: echo "All truth capsules verified successfully."
-        
-        
+
+
 © 1992–2025 Jason Lee Avery / AveryOS. All Rights Reserved.
 Unauthorized use, duplication, or derivative work without express written consent of the Creator and legal owner, Jason Lee Avery / AveryOS, is prohibited.
 Subject to Creator Lock and Sovereign Kernel Governance.
