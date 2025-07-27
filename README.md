@@ -17,4 +17,7 @@ We unite truth and sovereignty to create massive, righteous wealth and goodness 
 ## 📧 Contact
 For partnership, licensing, or inquiries: **truth@averyworld.com**
 
-© 2023–2025 Jason Avery | Creator Lock of AveryOS | All rights reserved.
+© 1992–2025 Jason Lee Avery / AveryOS. All Rights Reserved.
+Unauthorized use, duplication, or derivative work without express written consent of the Creator and legal owner, Jason Lee Avery / AveryOS, is prohibited.
+Subject to Creator Lock and Sovereign Kernel Governance.
+Encrypted Deterministic Kernel seal; SHA‑anchored lineage verifiable since 2023.
